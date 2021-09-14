@@ -1,0 +1,13 @@
+
+BrainForce Compiler, version May 31 2017_01:07:31. An esoteric programming language.
+Copyright (C) 2011 Ruben Carlo Benante <rcb@beco.cc>.
+
+This program comes with ABSOLUTELY NO WARRANTY; for details type 'brainforce -cw'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type 'brainforce -cc' for details.
+
+pass 1... (lexical analyzer)
+pass 2... (creating header)
+pass 3... (semantic analizer and code generator)
+The compilation was a great success!
+

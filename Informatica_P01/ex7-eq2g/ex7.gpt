@@ -1,0 +1,65 @@
+
+algoritmo calculadora_da_raiz_da_funcao_quadratica;
+
+ variáveis
+
+ x:real;
+
+ fim-variáveis
+
+
+ início
+
+ raiz(x);
+
+ fim
+
+
+função raiz(x:real):real
+    i: inteiro;
+    r: real;
+    a: real;
+    b: real;
+    c: real;
+    x1: real;
+    x2: real;
+
+ início
+    imprima("\n == Calculadora de raizes da equaCAo do 2* grau == \n ");
+    imprima(" Vamos calcular as raIzes da funCAo quadratica ax^2 + bx + c\n\n");
+
+    imprima("  Digite o valor de a");
+    a:= leia();
+    imprima("  Digite o valor de b");
+    b:= leia();
+    imprima("  Por fim digite o valor de c");
+    c:= leia();
+
+    x:=1;
+
+    r := (b*b) -(4*a*c);
+
+    se r >= 0 & a <> 0 então
+        enquanto i<>10 faça
+            i:= i + 1;
+
+            x:= x - ((x*x - r) / (2*x));
+        fim-enquanto
+
+        x1 := (-b + x) / (2*a);
+        x2 := (-b - x) / (2*a);
+
+        imprima("\n As raIzes sAo: ");
+        imprima("\n O valor de x1 eh: ", x1);
+        imprima(" O valor de x2 eh: ", x2);
+        imprima(" ");
+    senão
+        imprima("\n NAo calculo Delta negativo ou A igual a zero !! \n");
+        imprima(" O valor do seu Delta foi : ", r);
+        imprima(" O valor do seu A foi : \n ", a);
+    fim-se
+
+
+    retorne x;
+
+fim

@@ -1,0 +1,32 @@
+
+algoritmo raiz;
+
+variáveis
+ r: real;
+ x: real;
+fim-variáveis
+
+início
+    imprima(" \n Digite um nUmero para tirar a raiz:  \n ");
+    r:= leia();
+    imprima(" \n Digite um Palpite:  \n ");
+    x:= leia();
+    imprima(" \n O resultado eh: ", raiz(x));
+fim
+
+função raiz (x: real): real
+             i : inteiro;
+//i = contador
+
+início
+
+enquanto i<>15 faça // o laço de repetição em portugol
+    i := i+1;
+    x := x - ((x*x - r)/ (2*x));
+    
+fim-enquanto
+    
+retorne x;
+
+fim
+

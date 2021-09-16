@@ -1,0 +1,9 @@
+1;Pai rico,pai pobre;Robert T. Kiyosaki;Alta Books;;2017;2;9788550801483;
+2;Mistborn Primeira era - O imp√©rio final(vol.1);Brandon Sandersons;Leya;S√£o Paulo;2014;1;9788580448641;
+3;Iracema;Jos√© de Alencar;Typ e Filhos;Cear√°;1865;1;1234567890123;
+4;Harry Potter e a Pedra Filosofal;J.K Rowling;Pottermore Publishing;;2015;1;9788532511010;
+5;Do √√√√ Atomo ao buraco negro;Schwarza;Planeta do Brasil;S√£o paulo;2018;1;9788542213676;
+6;A hist√≥ria da f√≠sica;Anne Rooney;M.Books do Brasil Editora Ltda;S√£o paulo;2013;2;9788576802174;
+7;Terra papagali;Jose Roberto;Objetiva;Rio de Janeiro;2011;2;9788579620881;
+8;Manual do imp√©rio;√√√ Angelo Lessa;Bertrand Brasil Ldta;Rio de janeiro;;;9788528617054;
+9;A hist√≥ria;Fabiano Morais;Sextante;Rio de janeiro;2009;1;9788575424605;

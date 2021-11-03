@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.30)  2 NOV 2021 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.30)  2 NOV 2021 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -108,7 +108,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-No file pext-prog2-benante-sobrenome1-sobrenome2.aux.
+(./pext-prog2-benante-sobrenome1-sobrenome2.aux)
 \openout1 = `pext-prog2-benante-sobrenome1-sobrenome2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -123,6 +123,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
@@ -224,17 +225,12 @@ OK, entering \nonstopmode...
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 148.
+(Font)              <7> on input line 145.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 148.
- [2] [3]
+(Font)              <5> on input line 145.
+ [2] [3] [4]
 
-LaTeX Warning: Reference `tab:resultados' on page 4 undefined on input line 248
-.
-
-[4]
-
-LaTeX Warning: Citation `Benante2008phd' on page 5 undefined on input line 252.
+LaTeX Warning: Citation `Benante2008phd' on page 5 undefined on input line 249.
 
 
 No file pext-prog2-benante-sobrenome1-sobrenome2.bbl.
@@ -242,14 +238,11 @@ No file pext-prog2-benante-sobrenome1-sobrenome2.bbl.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 2670 strings out of 494468
- 37940 string characters out of 6175090
- 109819 words of memory out of 5000000
+ 2672 strings out of 494468
+ 38030 string characters out of 6175090
+ 109843 words of memory out of 5000000
  6303 multiletter control sequences out of 15000+600000
  9829 words of font info for 35 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
@@ -268,7 +261,7 @@ y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on pext-prog2-benante-sobrenome1-sobrenome2.pdf (5 pages, 175931
+Output written on pext-prog2-benante-sobrenome1-sobrenome2.pdf (5 pages, 175885
  bytes).
 PDF statistics:
  80 PDF objects out of 1000 (max. 8388607)

@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Projeto de Extensão da disciplina de Matemática Discreta
-% Sub-projeto do ProgramAuto
+% Projeto avaliativo da disciplina de programação 2
+% Sub-projeto do grupo Doyle
 %
 % Autores:
 %     Prof. Dr. Ruben Carlo Benante
@@ -8,7 +8,7 @@
 %     Nome do Aluno 1
 %     Thiago De Azevedo Cavendish
 %     Nome do Aluno 3
-%     Nome do Aluno 4
+%     Ulisses Mosart Sobrinho
 %     Nome do Aluno 5
 %     Nome do Aluno 6
 %
@@ -23,7 +23,7 @@
 % Para gerar o PDF use uma das 2 opções abaixo:
 %
 % Opção 1: com makefile
-%    $ make pext-matdiscreta-benante-sobrenome1-sobrenome2*.pdf
+%    $ make pext-prog2-benante-sobrenome1-sobrenome2*.pdf
 %
 % Opção 2: comandos diretos:
 %    $ pdflatex pext-matdiscreta-benante-sobrenome1-sobrenome2.tex -o pext-matdiscreta-benante-sobrenome1-sobrenome2.pdf
@@ -44,8 +44,8 @@
 
 %% Capa %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\title{ProgramAuto: subtítulo}
-\author{Ruben Carlo Benante \\ Autor1 \\ Thiago De Azevedo Cavendish \\ Autor3 \\ Autor4 \\ Autor5 \\ Autor6 }
+\title{Programação 2: Aulas sobre estruturas de controle de decisão}
+\author{Ruben Carlo Benante \\ Autor1 \\ Thiago De Azevedo Cavendish \\ Autor3 \\ Ulisses Mosart Sobrinho \\ Autor5 \\ Autor6 }
 
 \begin{document} % início do PDF %
 
@@ -55,16 +55,16 @@
 
 \begin{abstract}
 
-\textbf{Assunto:} Ensino da Linguagem de Programação \texttt{C}.
+\textbf{Assunto:} Ensino de estruturas de controle de dicisão, da Linguagem de Programação \texttt{C}.
 
-Vamos comparar os algoritmos \textit{xsort} e \textit{ysort} para bla bla.
+Vamos comparar os algoritmos de estruturas de controle de decisão \textit{xsort} e \textit{ysort} para bla bla.
 % descrever em poucas palavras seu projeto aqui 
 
 \textbf{Local:} Escola Politécnica de Pernambuco - UPE/POLI
 
 \textbf{Órgão Financiador:} N/A
 
-\textbf{Caracterização:} Projeto requisito da disciplina de Matemática Discreta, sub-projeto integrante do Projeto \texttt{ProgramAuto}
+\textbf{Caracterização:} Projeto requisito da disciplina de Programação 2, sub-projeto do grupo \texttt{Doyle}
 
 % Este é o fim do resumo.
 
@@ -79,12 +79,39 @@ Vamos comparar os algoritmos \textit{xsort} e \textit{ysort} para bla bla.
 
 % Descrever melhor seu projeto aqui 
 
-Ensino da Linguagem de Programação \texttt{C}
-
-Métodos de ordenação tem a principal função de...
+Esse projeto será composto de duas vídeo aulas sobre o tópico de ensino de estruturas de controle de decisão,  da Linguagem de Programação \texttt{C}
 
 
-O algoritmo \textit{Tal-e-qual} trabalha percorrendo uma árvore tal tal e tal.
+\begin{itemize}
+ \item Estrutura de decisão If/Else
+ \item Estrutura de controle Switch
+\end{itemize}
+
+%As estruturas de decisão If/Else tem como principal função ...
+
+Utilizamos as estruturas de decisão (If/Else) quando existem instruções dentro do programa
+ que só devem ser executadas se elas satisfizerem uma determinada condição.
+ 
+Por exemplo: só irei para praia se não chover. 
+             Só passarei nesta disciplina se obtiver media superior ou igual a 7,0 e se a presença for igual ao superior a 70% das aulas.
+             
+
+A sintaxe da estrutura IF na linguagem C é a seguinte:
+ 
+       Estrutura de Decisão IF
+
+O algoritmo \textit{Tal-e-qual} trabalha
+Comando IF = se
+
+Estrutura básica	       if (condição)
+{
+    lista de instruções
+}
+
+ O algoritmo \textit{acima} trabalha da seguínte maneira:
+ - A condição é verificada a cada passagem pela estrutura IF. Se a condição for satisfeita (V), 
+ então a lista de instruções que se encontra entre chaves será feita. 
+ Porém, Se a condição NÃO for satisfeita (F), então serão feitas as instruções existentes logo após o fechamento das chaves.
 
 %% seção de objetivos %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Objetivos}

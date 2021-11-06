@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.30)  5 NOV 2021 20:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.30)  6 NOV 2021 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -111,11 +111,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(./pext-prog2-benante-sobrenome1-sobrenome2.aux
-
-LaTeX Warning: Label `tab:resultados' multiply defined.
-
-)
+(./pext-prog2-benante-sobrenome1-sobrenome2.aux)
 \openout1 = `pext-prog2-benante-sobrenome1-sobrenome2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -130,7 +126,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen106
@@ -207,78 +204,88 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
+
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 123.
+(Font)              <7> on input line 120.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 123.
- [1
+(Font)              <5> on input line 120.
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (9.36053pt too wide) in paragraph at lines 151--153
+\OT1/cmr/m/n/10 O switch case ^^Se um co-mando uti-li-zado na cons-tru^^Xc~ao d
+e me-nus de es-co-lhas(\cases")
+ []
+
 <imagens/ex2.png, id=15, 372.39125pt x 278.54062pt>
 File: imagens/ex2.png Graphic file (type png)
 <use imagens/ex2.png>
-Package pdftex.def Info: imagens/ex2.png  used on input line 167.
+Package pdftex.def Info: imagens/ex2.png  used on input line 162.
 (pdftex.def)             Requested size: 276.00105pt x 206.44833pt.
- [2]
+[2]
 <imagens/ex3.png, id=22, 370.88562pt x 316.18124pt>
 File: imagens/ex3.png Graphic file (type png)
 <use imagens/ex3.png>
-Package pdftex.def Info: imagens/ex3.png  used on input line 179.
+Package pdftex.def Info: imagens/ex3.png  used on input line 174.
 (pdftex.def)             Requested size: 276.00105pt x 235.2972pt.
  [3 <./imagens/ex2.png> <./imagens/ex3.png>]
 <imagens/ex4.png, id=28, 627.84563pt x 466.74374pt>
 File: imagens/ex4.png Graphic file (type png)
 <use imagens/ex4.png>
-Package pdftex.def Info: imagens/ex4.png  used on input line 190.
+Package pdftex.def Info: imagens/ex4.png  used on input line 185.
 (pdftex.def)             Requested size: 276.00105pt x 205.17558pt.
 <imagens/ex5.png, id=29, 361.35pt x 84.81688pt>
 File: imagens/ex5.png Graphic file (type png)
 <use imagens/ex5.png>
-Package pdftex.def Info: imagens/ex5.png  used on input line 200.
+Package pdftex.def Info: imagens/ex5.png  used on input line 195.
 (pdftex.def)             Requested size: 276.00105pt x 64.78374pt.
 <imagens/ex6.png, id=30, 358.84062pt x 81.80562pt>
 File: imagens/ex6.png Graphic file (type png)
 <use imagens/ex6.png>
-Package pdftex.def Info: imagens/ex6.png  used on input line 206.
+Package pdftex.def Info: imagens/ex6.png  used on input line 201.
 (pdftex.def)             Requested size: 276.00105pt x 62.92435pt.
 <imagens/ex7.png, id=31, 361.85187pt x 85.82062pt>
 File: imagens/ex7.png Graphic file (type png)
 <use imagens/ex7.png>
-Package pdftex.def Info: imagens/ex7.png  used on input line 217.
+Package pdftex.def Info: imagens/ex7.png  used on input line 212.
 (pdftex.def)             Requested size: 276.00105pt x 65.46004pt.
  [4 <./imagens/ex4.png> <./imagens/ex5.png> <./imagens/ex6.png>] [5 <./imagens/
-ex7.png>] [6] [7] (./pext-prog2-benante-sobrenome1-sobrenome2.bbl) [8]
-(./pext-prog2-benante-sobrenome1-sobrenome2.aux)
+ex7.png>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
 
-LaTeX Warning: There were multiply-defined labels.
+ []
 
- ) 
+(./pext-prog2-benante-sobrenome1-sobrenome2.bbl) [7]
+(./pext-prog2-benante-sobrenome1-sobrenome2.aux) ) 
 Here is how much of TeX's memory you used:
- 2719 strings out of 494468
- 38972 string characters out of 6175090
- 111049 words of memory out of 5000000
- 6340 multiletter control sequences out of 15000+600000
+ 2696 strings out of 494468
+ 38608 string characters out of 6175090
+ 109081 words of memory out of 5000000
+ 6317 multiletter control sequences out of 15000+600000
  9484 words of font info for 34 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
- 41i,8n,25p,466b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on pext-prog2-benante-sobrenome1-sobrenome2.pdf (8 pages, 313694
+ 41i,8n,25p,475b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on pext-prog2-benante-sobrenome1-sobrenome2.pdf (7 pages, 292187
  bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
